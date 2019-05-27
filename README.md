@@ -11,6 +11,6 @@ Only support for Excel with version higher or equal than 2007
 
 ## Output Simple
 ### Before
-![Before](https://github.com/NHawk-Ke/ExcelExtractor/blob/master/Before.png)
+![Before](https://github.com/NHawk-Ke/ExcelFormatter/blob/master/Before.png)
 ### After
-![After](https://github.com/NHawk-Ke/ExcelExtractor/blob/master/After.png)
+![After](https://github.com/NHawk-Ke/ExcelFormatter/blob/master/After.png)
