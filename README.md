@@ -9,6 +9,6 @@ This is used for reformating the `.xlsx` file that exported from Ritz-Carlton Ho
 ## Note
 Only support for Excel with version higher or equal than 2007
 
-![Before](https://NHawk-Ke/ExcelExtractor/DeepSort/blob/master/img/Deepsort%20training.jpg)
+![Before](https://github.com/NHawk-Ke/ExcelExtractor/master/Before.png)
 
-![After](https://github.com/Swjzhao/DeepSort/blob/master/img/Deepsort%20training.jpg)
+![After](https://github.com/NHawk-Ke/ExcelExtractor/master/After.png)
