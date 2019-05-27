@@ -9,6 +9,8 @@ This is used for reformating the `.xlsx` file that exported from Ritz-Carlton Ho
 ## Note
 Only support for Excel with version higher or equal than 2007
 
+## Output Simple
+### Before
 ![Before](https://github.com/NHawk-Ke/ExcelExtractor/blob/master/Before.png)
-
+### After
 ![After](https://github.com/NHawk-Ke/ExcelExtractor/blob/master/After.png)
