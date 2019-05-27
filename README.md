@@ -1,10 +1,14 @@
-# ExcelExtractor
+# ExcelFormatter
+This is used for reformating the `.xlsx` file that exported from Ritz-Carlton Hotel Web directly
 
-1.把需要转换的文件命名为`input.xlsx`并和`Extract.exe`, `main.bat`, `ExcelToCsv.vbs`放在同一目录下
-
-2.双击`main.bat`
-
-3.结果就是`result.xlsx`只需要稍微调整表格大小就可以了
+## Getting Started
+1. Name the file you want to reformat to be `input.xlsx` and put it at the same directory as `Extract.exe`, `main.bat` and `ExcelToCsv.vbs'.
+2. Double click `main.bat`.
+3. It will auttomatically output a `result.xlsx`. Modify iy if necessary.
 
 ## Note
-只支持2007或更高版本的Excel转换
+Only support for Excel with version higher or equal than 2007
+
+![Before](https://NHawk-Ke/ExcelExtractor/DeepSort/blob/master/img/Deepsort%20training.jpg)
+
+![After](https://github.com/Swjzhao/DeepSort/blob/master/img/Deepsort%20training.jpg)
